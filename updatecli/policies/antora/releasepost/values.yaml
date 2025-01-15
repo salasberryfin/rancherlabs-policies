@@ -1,0 +1,18 @@
+pipelineid: releasepost
+automerge: false
+labels:
+  - documentation
+
+configpath: ".releasepost.yaml"
+
+releasedir: "docs/next/modules/en/pages/changelog"
+
+scm:
+  enabled: false
+  user: updatecli-bot
+  email: updatecli-bot@updatecli.io
+  # owner: github_owner
+  # repository: github_repository
+  username: "updatecli-bot"
+  branch: main
+  # commitusingapi: false

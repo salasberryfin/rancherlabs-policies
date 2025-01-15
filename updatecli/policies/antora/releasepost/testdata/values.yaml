@@ -1,0 +1,12 @@
+pipelineid: releasepost
+configpath: ".releasepost.yaml"
+
+scm:
+  enabled: true
+  user: updatecli-bot
+  email: updatecli-bot@updatecli.io
+  owner: salasberryfin
+  repository: rancher-turtles
+  branch: main
+  username: updatecli-bot
+  commitusingapi: true

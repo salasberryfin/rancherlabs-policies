@@ -1,0 +1,14 @@
+authors:
+  - salasberryfin<carlos.salas@suse.com>
+
+url: "https://github.com/salasberryfin/rancherlabs-policies/"
+documentation: This policy execute releasepost on an antora website
+source: "https://github.com/salasberryfin/rancherlabs-policies/updatecli/policies/antora/releasepost/"
+version: 0.1.0
+vendor: Rancher Turtles
+
+licenses:
+  - "Apache-2.0"
+
+description: |
+  This policy execute releasepost on an antora website
