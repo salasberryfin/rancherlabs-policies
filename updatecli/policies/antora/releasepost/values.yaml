@@ -15,4 +15,5 @@ scm:
   # repository: github_repository
   username: "updatecli-bot"
   branch: main
+  submodules: false
   # commitusingapi: false
