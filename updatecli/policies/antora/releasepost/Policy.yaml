@@ -4,7 +4,7 @@ authors:
 url: "https://github.com/salasberryfin/rancherlabs-policies/"
 documentation: This policy execute releasepost on an antora website
 source: "https://github.com/salasberryfin/rancherlabs-policies/updatecli/policies/antora/releasepost/"
-version: 0.1.0
+version: 0.2.0
 vendor: Rancher Turtles
 
 licenses:
